@@ -2,7 +2,7 @@ package ex04;
 
 public class Walking {
     double CalculateCalory(int walk) {
-        return 0.02 * walk;
+        return (int) (0.02 * walk);
     }
 
     public static void main(String[] args) {

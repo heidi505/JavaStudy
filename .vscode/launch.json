@@ -1,0 +1,301 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "AreaTest",
+            "request": "launch",
+            "mainClass": "ex01.AreaTest",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Light",
+            "request": "launch",
+            "mainClass": "ex01.Light",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "ex01.Main",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "TypeConversion",
+            "request": "launch",
+            "mainClass": "ex01.TypeConversion",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Var01",
+            "request": "launch",
+            "mainClass": "ex01.Var01",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Var02",
+            "request": "launch",
+            "mainClass": "ex01.Var02",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Var03",
+            "request": "launch",
+            "mainClass": "ex01.Var03",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Var04",
+            "request": "launch",
+            "mainClass": "ex01.Var04",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "ex02.Main",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "ex03.ArrayTest",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest3",
+            "request": "launch",
+            "mainClass": "ex03.ArrayTest3",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Coin",
+            "request": "launch",
+            "mainClass": "ex03.Coin",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Coin2",
+            "request": "launch",
+            "mainClass": "ex03.Coin2",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "CoinMethod",
+            "request": "launch",
+            "mainClass": "ex03.CoinMethod",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "ex03.EvenOdd",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Garding",
+            "request": "launch",
+            "mainClass": "ex03.Garding",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "MyGugu",
+            "request": "launch",
+            "mainClass": "ex03.MyGugu",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "MyStar",
+            "request": "launch",
+            "mainClass": "ex03.MyStar",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "MyStar01",
+            "request": "launch",
+            "mainClass": "ex03.MyStar01",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "MyStar02",
+            "request": "launch",
+            "mainClass": "ex03.MyStar02",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "RaggedArray",
+            "request": "launch",
+            "mainClass": "ex03.RaggedArray",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "RaggedArry2",
+            "request": "launch",
+            "mainClass": "ex03.RaggedArry2",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperSCissor",
+            "request": "launch",
+            "mainClass": "ex03.RockPaperSCissor",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "TheaterSeats",
+            "request": "launch",
+            "mainClass": "ex03.TheaterSeats",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Elevator",
+            "request": "launch",
+            "mainClass": "ex04.Elevator",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "ExamTest",
+            "request": "launch",
+            "mainClass": "ex04.ExamTest",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Gamble",
+            "request": "launch",
+            "mainClass": "ex04.Gamble",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Gasoline",
+            "request": "launch",
+            "mainClass": "ex04.Gasoline",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "JavaCafe",
+            "request": "launch",
+            "mainClass": "ex04.JavaCafe",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "MakingBox",
+            "request": "launch",
+            "mainClass": "ex04.MakingBox",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Meth03",
+            "request": "launch",
+            "mainClass": "ex04.Meth03",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Method01",
+            "request": "launch",
+            "mainClass": "ex04.Method01",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "NumTest",
+            "request": "launch",
+            "mainClass": "ex04.NumTest",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "OOP01",
+            "request": "launch",
+            "mainClass": "ex04.OOP01",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "RareItem",
+            "request": "launch",
+            "mainClass": "ex04.RareItem",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "TelevisionTest",
+            "request": "launch",
+            "mainClass": "ex04.TelevisionTest",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Walking",
+            "request": "launch",
+            "mainClass": "ex04.Walking",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "ex05.ch01.App",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "Exten01",
+            "request": "launch",
+            "mainClass": "ex05.ch03.Exten01",
+            "projectName": "java_lab_dbbeb322"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "ex05.exten.App",
+            "projectName": "java_lab_dbbeb322"
+        }
+    ]
+}
