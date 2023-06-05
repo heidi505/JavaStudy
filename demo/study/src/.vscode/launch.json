@@ -1,0 +1,336 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "NumTest",
+            "request": "launch",
+            "mainClass": "ex04.NumTest",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "AreaTest",
+            "request": "launch",
+            "mainClass": "ex01.AreaTest",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Light",
+            "request": "launch",
+            "mainClass": "ex01.Light",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "ex01.Main",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "TypeConversion",
+            "request": "launch",
+            "mainClass": "ex01.TypeConversion",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Var01",
+            "request": "launch",
+            "mainClass": "ex01.Var01",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Var02",
+            "request": "launch",
+            "mainClass": "ex01.Var02",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Var03",
+            "request": "launch",
+            "mainClass": "ex01.Var03",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Var04",
+            "request": "launch",
+            "mainClass": "ex01.Var04",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Add2",
+            "request": "launch",
+            "mainClass": "ex02.Add2",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "BitOperator",
+            "request": "launch",
+            "mainClass": "ex02.BitOperator",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "CalTime",
+            "request": "launch",
+            "mainClass": "ex02.CalTime",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "ComOperator",
+            "request": "launch",
+            "mainClass": "ex02.ComOperator",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "FtoC",
+            "request": "launch",
+            "mainClass": "ex02.FtoC",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "InputString",
+            "request": "launch",
+            "mainClass": "ex02.InputString",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "ex02.Main",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p01",
+            "request": "launch",
+            "mainClass": "ex02.p01",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p02",
+            "request": "launch",
+            "mainClass": "ex02.p02",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p03",
+            "request": "launch",
+            "mainClass": "ex02.p03",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p05",
+            "request": "launch",
+            "mainClass": "ex02.p05",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p06",
+            "request": "launch",
+            "mainClass": "ex02.p06",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p07",
+            "request": "launch",
+            "mainClass": "ex02.p07",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p08",
+            "request": "launch",
+            "mainClass": "ex02.p08",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p09",
+            "request": "launch",
+            "mainClass": "ex02.p09",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "p10",
+            "request": "launch",
+            "mainClass": "ex02.p10",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "pizza",
+            "request": "launch",
+            "mainClass": "ex02.pizza",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "ex03.ArrayTest",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest3",
+            "request": "launch",
+            "mainClass": "ex03.ArrayTest3",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Coin",
+            "request": "launch",
+            "mainClass": "ex03.Coin",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Coin2",
+            "request": "launch",
+            "mainClass": "ex03.Coin2",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "CoinMethod",
+            "request": "launch",
+            "mainClass": "ex03.CoinMethod",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "ex03.EvenOdd",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Garding",
+            "request": "launch",
+            "mainClass": "ex03.Garding",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "MyGugu",
+            "request": "launch",
+            "mainClass": "ex03.MyGugu",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "MyStar",
+            "request": "launch",
+            "mainClass": "ex03.MyStar",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "MyStar01",
+            "request": "launch",
+            "mainClass": "ex03.MyStar01",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "MyStar02",
+            "request": "launch",
+            "mainClass": "ex03.MyStar02",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "RaggedArray",
+            "request": "launch",
+            "mainClass": "ex03.RaggedArray",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "RaggedArry2",
+            "request": "launch",
+            "mainClass": "ex03.RaggedArry2",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperSCissor",
+            "request": "launch",
+            "mainClass": "ex03.RockPaperSCissor",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "TheaterSeats",
+            "request": "launch",
+            "mainClass": "ex03.TheaterSeats",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "while01",
+            "request": "launch",
+            "mainClass": "ex03.while01",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "MakingBox",
+            "request": "launch",
+            "mainClass": "ex04.MakingBox",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Meth03",
+            "request": "launch",
+            "mainClass": "ex04.Meth03",
+            "projectName": "src_724e05ff"
+        },
+        {
+            "type": "java",
+            "name": "Method01",
+            "request": "launch",
+            "mainClass": "ex04.Method01",
+            "projectName": "src_724e05ff"
+        }
+    ]
+}
